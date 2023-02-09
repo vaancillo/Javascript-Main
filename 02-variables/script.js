@@ -1,0 +1,3 @@
+recipiente = "pedro"
+
+alert(recipiente)

@@ -1,0 +1,15 @@
+{
+    "electronica":{
+    "monitor": "Stylos",
+    "teclado": "Gamefactor",
+    "mouse": "Logitech",
+    "audifonos":"500",
+    "pc": "true"
+    },
+    "cocina":{
+    "refrigerador":"true",
+    "microondas": "true",
+    "platos":"false",
+    "cubiertos":"true"
+    }
+}
